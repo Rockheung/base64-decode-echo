@@ -1,0 +1,8 @@
+name = "base64-decode-echo"
+main = "src/index.ts"
+compatibility_date = "2023-02-18"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
